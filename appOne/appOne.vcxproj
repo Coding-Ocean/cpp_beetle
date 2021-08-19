@@ -152,7 +152,6 @@
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CREATURE.cpp" />
     <ClCompile Include="gmain.cpp" />
   </ItemGroup>
   <ItemGroup>

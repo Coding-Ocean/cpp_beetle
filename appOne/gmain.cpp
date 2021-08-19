@@ -1,4 +1,3 @@
-#include"libOne.h"
 #include"CREATURE.h"
 void gmain() {
     window(1920, 1080, full);

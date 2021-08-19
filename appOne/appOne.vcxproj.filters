@@ -18,7 +18,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="gmain.cpp" />
-    <ClCompile Include="CREATURE.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CREATURE.h" />
